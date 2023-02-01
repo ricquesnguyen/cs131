@@ -1,0 +1,23 @@
+    1  passwd
+    2  wget www.github.com
+    3  history > cmds.log
+    4  cd Desktop/project
+    5  cd project
+    6  git push origin ws1
+    7  cd C:\Users\Ricques\Desktop\project
+    8  cd Desktop
+    9  git init
+   10  cd ~/Desktop/project
+   11  cd ~/Desktop
+   12  mkdir Desktop
+   13  git init
+   14  touch cmds.log
+   15  ls
+   16  git status
+   17  git add cmds.log
+   18  git commit "ws1 commit"
+   19  git commit -m "ws1 commit"
+   20  wget www.github.com
+   21  mkdir /tmp/ws1
+   22  git init
+   23  history > cmds.log
